@@ -4,6 +4,10 @@ web.config
 
 The-horse-concept_Movetia-2018.05.16.mp4
 
+# other
+_bak*/
+*.bak.html
+
 # log[0-9].txt      # Ignores log0.txt, log1.txt, ..., log9.txt
 # log[015].txt      # Ignores log0.txt, log1.txt, log5.txt
 # logs/log?.txt     # Ignores logs/log1.txt, logs/logA.txt, etc.
